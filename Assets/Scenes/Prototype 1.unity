@@ -415,8 +415,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2fef55fbd9b284641b639350ec104552, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::PlayerControls
-  speedMultiplier: 15
-  turnSpeed: 10
+  speed: 20
+  turnSpeed: 45
+  turboSpeed: 20
+  usingTurbo: 0
 --- !u!54 &141624816
 Rigidbody:
   m_ObjectHideFlags: 0
