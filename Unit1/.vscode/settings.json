@@ -67,5 +67,5 @@
         "*.sln": "*.csproj",
         "*.slnx": "*.csproj"
     },
-    "dotnet.defaultSolution": "u_junior_programmer.slnx"
+    "dotnet.defaultSolution": "Unit1.slnx"
 }
